@@ -1,2 +1,5 @@
 # SeekBarTest
-一个带数字显示的seekbar
+<br>
+<br>
+![image](https://github.com/lengyang183/SeekBarTest/blob/master/img_01.png)<br>
+
